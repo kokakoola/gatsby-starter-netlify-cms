@@ -8,17 +8,17 @@ mainpitch:
   title: What to expect from a rehomed Shiba Inu
   description: >-
     I got Hiro 2,5 years ago. He was a giveaway as his owner saw him unhappy and
-    understood it does not work out. 
+    understood it does not work well.
 description: >-
   I knew he is anxious and does not like traffic. But this multitude of
   misbehaving was not what I expected: first the very special shiba
-  characteristic spiced with delayed socialising and missing basic training. 
+  characteristic spiced with delayed socialising and missing basic training.
 intro:
   blurbs:
     - image: /img/coffee.png
       text: >-
         Shibas are ancient native breed. Besides cuteness it means they have to
-        be socialised early, before 16 weeks. Their basic 
+        be socialised early, before 16 weeks. Their basic
     - image: /img/coffee-gear.png
       text: >
         We offer a small, but carefully curated selection of brewing gear and
