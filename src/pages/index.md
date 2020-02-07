@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Great coffee with a conscience is the best
-image: /img/home-jumbotron.jpg
+image: /img/Frenemies Sõbraenlased.JPG
 heading: Great companion who gives work for many years
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
