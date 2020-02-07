@@ -8,23 +8,29 @@ mainpitch:
   title: What to expect from a rehomed Shiba Inu
   description: >-
     I got Hiro 2,5 years ago. He was a giveaway as his owner saw him unhappy and
-    understood it does not work well.
+    understood it does not work out. 
 description: >-
   I knew he is anxious and does not like traffic. But this multitude of
   misbehaving was not what I expected: first the very special shiba
-  characteristic spiced with delayed socialising and missing basic training.
+  characteristic spiced with delayed socialising and missing basic training. 
 intro:
   blurbs:
     - image: /img/coffee.png
       text: >-
         Shibas are ancient native breed. Besides cuteness it means they have to
-        be socialised early, before 16 weeks. Their basic
+        be socialised early, before 16 weeks. Their basic character how to cope
+        with stress during lifetime develops between 8-12 months. 
+
+
+        My Hiro was adopted at 16 months, he is from a farm and lived in a big
+        cosy cage and never met a city and had little interaction with humans.
     - image: /img/coffee-gear.png
-      text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
+      text: >-
+        Anxiety is common disorder on shibas. Makes sense as they are more
+        "wild" than todays breeds. Their wild instincts are still there and
+        shibas are well known survivors in wilderness. They are born hunters,
+        not lap dogs. They are intelligent and mistrustful preferring to make
+        their own decisions as they usually see no reason to trust a human.
     - image: /img/tutorials.png
       text: >
         Love a great cup of coffee, but never knew how to make one? Bought a
