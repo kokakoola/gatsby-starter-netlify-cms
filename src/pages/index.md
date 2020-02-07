@@ -2,29 +2,23 @@
 templateKey: index-page
 title: Great coffee with a conscience is the best
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
+heading: Great companion who gives work for many years
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
-  title: Why Kaldi
-  description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+  title: What to expect from a rehomed Shiba Inu
+  description: >-
+    I got Hiro 2,5 years ago. He was a giveaway as his owner saw him unhappy and
+    understood it does not work out. 
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  I knew he is anxious and does not like traffic. But this multitude of
+  misbehaving was not what I expected: first the very special shiba
+  characteristic spiced with delayed socialising and missing basic training. 
 intro:
   blurbs:
     - image: /img/coffee.png
-      text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
+      text: >-
+        Shibas are ancient native breed. Besides cuteness it means they have to
+        be socialised early, before 16 weeks. Their basic 
     - image: /img/coffee-gear.png
       text: >
         We offer a small, but carefully curated selection of brewing gear and
