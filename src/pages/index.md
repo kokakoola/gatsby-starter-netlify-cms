@@ -18,7 +18,12 @@ intro:
     - image: /img/coffee.png
       text: >-
         Shibas are ancient native breed. Besides cuteness it means they have to
-        be socialised early, before 16 weeks. Their basic 
+        be socialised early, before 16 weeks. Their basic character how to cope
+        with stress during lifetime develops between 8-12 months. 
+
+
+        My Hiro was adopted at 16 months, he is from a farm and lived in a big
+        cosy cage and never met a city and had little interaction with humans.
     - image: /img/coffee-gear.png
       text: >
         We offer a small, but carefully curated selection of brewing gear and
